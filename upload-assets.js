@@ -1,5 +1,5 @@
-const ASSET_BUCKET_NAME=''
-const VERSION='1'
+const ASSET_BUCKET_NAME='code-bucket13'
+const VERSION='3'
 
 var AWS = require('aws-sdk');
 var fs = require('fs');
